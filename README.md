@@ -1,1 +1,1 @@
-# Mi proyecto
+# Hackathon Project – UTEC Machine Learning Class
